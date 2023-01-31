@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Method\ showScore()\ to\ show\ the\ actual\ score\ of\ catched\ coins\r\n
+comment2.params=
+comment2.target=void\ showScore()
+comment2.text=\r\n\ Creates\ the\ text\ field\ score\ with\ the\ current\ number\ of\ catched\ coins\r\n
+numComments=3

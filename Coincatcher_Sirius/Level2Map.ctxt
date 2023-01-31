@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Level2Map
+comment0.text=\r\n\ Creates\ world\ for\ Level\ 2\r\n
+comment1.params=
+comment1.target=Level2Map()
+comment1.text=\r\n\ Creates\ the\ world\ for\ the\ level\ 2\ with\ the\ size\ 1000x550,\ cell\ size\ 1x1\ pixels,\ \r\n\ sets\ the\ background\ picture\ to\ Level2Map.jpg,\ \r\n\ prepares\ the\ Level\ with\ the\ method\ prepareLevel();\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ checkGamestatus()\ to\ check\ if\ all\ coins\ are\ collected\ and\ the\ game\ has\ been\ won\r\n
+comment3.params=
+comment3.target=void\ prepareLevel()
+comment3.text=\r\n\ Creates\ the\ actors\ over\ the\ map\r\n
+comment4.params=
+comment4.target=void\ checkGamestatus()
+comment4.text=\r\n\ Checks\ if\ any\ coin\ is\ over\ the\ map,\ if\ not\ show\ victory\ screen\ and\ stop\ the\ game\r\n
+numComments=5

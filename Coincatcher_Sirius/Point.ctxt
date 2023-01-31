@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=x\ y
+comment1.target=Point(int,\ int)
+comment1.text=\r\n\ Takes\ x\ and\ y\ position\ of\ the\ object,\ which\ uses\ this\ method\ and\ set\ it\ for\ the\ variable\ x\ and\ y\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Return\ x\ coordinate\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Return\ y\ coordinate\r\n
+numComments=4

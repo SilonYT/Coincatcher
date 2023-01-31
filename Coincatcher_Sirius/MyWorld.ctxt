@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ @program\ name\ (Coincatcher)\r\n\ @author\ (Sirius\ Sch\u00FCrmann)\ \r\n\ @version\ (V.1.0)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Creates\ the\ world\ at\ the\ beginning\ of\ the\ game\ with\ the\ size\ 1000x550,\ cell\ size\ 1x1\ pixels,\ \r\n\ sets\ the\ background\ picture\ to\ StartBackground.png,\ \r\n\ sets\ the\ variable\ catchedCoins\ at\ the\ beginning\ of\ the\ game\ to\ 0\r\n
+numComments=2
