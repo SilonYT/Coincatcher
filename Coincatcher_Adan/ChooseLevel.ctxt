@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ChooseLevel
+comment0.text=\r\n\ Klasse\ "ChooseLevel"\ verwaltet\ die\ Anzeige\ des\ Levels\ und\ den\ \u00DCbergang\ zum\ jeweiligen\ Level\r\n
+comment1.params=
+comment1.target=ChooseLevel()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ ChooseLevel\r\n\ Initialisiert\ die\ Welt\ mit\ einem\ Hintergrund,\ Level1-\ und\ Level2-Objekten\ sowie\ einem\ Titel\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \u00DCberwacht\ Mausbewegungen\ und\ f\u00FChrt\ bei\ Klick\ auf\ bestimmte\ Bereiche\ zum\ jeweiligen\ Level\r\n
+numComments=3

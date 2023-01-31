@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GreenWorld
+comment0.text=\r\n\ Beschreibung\ der\ Klasse\ GreenWorld\r\n\ \r\n\ @author\ (Adan\ Mohamed)\ \r\n\ @version\ (Version1.0\ 31.01.2023)\r\n
+comment1.params=
+comment1.target=GreenWorld()
+comment1.text=\r\n\ Konstruktor\ der\ Klasse\ GreenWorld.\r\n\ \r\n
+comment2.params=amount
+comment2.target=void\ addScore(int)
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ drawMap()
+numComments=5

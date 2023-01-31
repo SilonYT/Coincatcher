@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Gegner
+comment0.text=\r\n\ Die\ Klasse\ Gegner\ repr\u00E4sentiert\ den\ Gegner\ im\ Spiel.\r\n\ \r\n\ @author\ (Adan\ Mohamed)\ \r\n\ @version\ (Version1.0)\r\n
+comment1.params=speed
+comment1.target=Gegner(int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ die\ Klasse\ Gegner.\r\n\ @param\ speed\ Geschwindigkeit\ des\ Gegners\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Methode,\ die\ aufgerufen\ wird,\ wenn\ der\ Gegner\ zur\ Welt\ hinzugef\u00FCgt\ wird.\r\n\ @param\ w\ Referenz\ auf\ die\ Welt,\ zu\ der\ der\ Gegner\ hinzugef\u00FCgt\ wird\r\n
+comment3.params=
+comment3.target=void\ Gegnerfinden()
+comment3.text=\r\n\ Methode,\ die\ den\ Spieler\ sucht,\ um\ zu\ \u00FCberpr\u00FCfen,\ ob\ eine\ \u00DCberlappung\ mit\ dem\ Spieler\ stattgefunden\ hat.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act-Methode,\ die\ ausgef\u00FChrt\ wird,\ wenn\ der\ "Act"-\ oder\ "Run"-Button\ in\ der\ Umgebung\ gedr\u00FCckt\ wird.\r\n
+comment5.params=
+comment5.target=void\ moveSpieler()
+comment5.text=\r\n\ Methode,\ die\ die\ Bewegungen\ des\ Gegners\ steuert.\r\n
+comment6.params=direction
+comment6.target=int\ getChangeX(int)
+comment7.params=direction
+comment7.target=int\ getChangeY(int)
+comment8.params=offset
+comment8.target=int\ adjustOffset(int)
+numComments=9

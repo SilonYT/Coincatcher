@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameOverScreen
+comment0.text=\r\n\ The\ GameOverScreen\ class\ represents\ the\ game\ over\ screen.\r\n\ \r\n\ @author\ (Adan\ Mohamed)\r\n\ @version\ (Version1.0)\r\n
+comment1.params=
+comment1.target=GameOverScreen()
+comment1.text=\r\n\ Constructor\ for\ the\ GameOverScreen\ class.\r\n
+numComments=2
